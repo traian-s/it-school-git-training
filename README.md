@@ -2,4 +2,6 @@
 
 ## Teacher
 
+- Traian Stanciu
+
 ## Students
