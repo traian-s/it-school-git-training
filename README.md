@@ -3,4 +3,4 @@
 ## Teacher
 
 ## Students
-Lucian-Bogdan Popa
+Gabriel-Robert Romea
