@@ -4,3 +4,4 @@
 
 ## Students
 Lucian-Bogdan Popa
+Ioana Catalina Popescu
