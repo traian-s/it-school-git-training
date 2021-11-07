@@ -3,4 +3,6 @@
 ## Teacher
 
 ## Students
-Gabriel-Robert Romea
+- Lucian-Bogdan Popa
+- Ioana Catalina Popescu
+- Gabriel-Robert Romea
