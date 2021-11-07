@@ -3,5 +3,5 @@
 ## Teacher
 
 ## Students
-Lucian-Bogdan Popa
-Ioana Catalina Popescu
+- Lucian-Bogdan Popa
+- Ioana Catalina Popescu
