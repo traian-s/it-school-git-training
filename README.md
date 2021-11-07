@@ -3,5 +3,7 @@
 ## Teacher
 
 ## Students
-Lucian-Bogdan Popa
-Gustescu Mihai Emilian
+- Lucian-Bogdan Popa
+- Ioana Catalina Popescu
+- Gabriel-Robert Romea
+- Gustescu Mihai-Emilian
