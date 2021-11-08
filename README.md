@@ -8,3 +8,5 @@
 - Gabriel-Robert Romea
 - Gustescu Mihai-Emilian
 - Sava Bogdan-Leonard
+- Teodora Vela
+
