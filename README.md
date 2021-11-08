@@ -7,3 +7,4 @@
 - Ioana Catalina Popescu
 - Gabriel-Robert Romea
 - Gustescu Mihai-Emilian
+- Sava Bogdan-Leonard
