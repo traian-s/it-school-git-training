@@ -10,4 +10,4 @@
 - Puncea Cristian
 - Sava Bogdan-Leonard
 - Teodora Vela
-
+- Alin Lipotchi
