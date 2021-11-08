@@ -8,3 +8,4 @@
 - Gabriel-Robert Romea
 - Gustescu Mihai-Emilian
 - Puncea Cristian
+- Sava Bogdan-Leonard
